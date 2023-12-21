@@ -20,3 +20,9 @@
 
 ## Description
 A prototype for a 2D Isometric Game made in Godot 4.2
+
+
+## Features
+- Character 8-Directional animation
+- Tilemap with Terrain set
+- Spawn sprite whatever click position
